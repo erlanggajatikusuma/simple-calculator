@@ -3,9 +3,9 @@
 
 <h3 align="center">Simple Calculator</h3>
 
-<p align="center">
+<p align="left">
     <span>
-        <image width="200" src='./simple-calc.png' />
+        <image width="400" src='./simple-calc.png' />
     </span>
 </p>
 
